@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drill.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Drill0000" x="0" y="0" width="768" height="863"/>
+	<SubTexture name="Drill0001" x="788" y="0" width="768" height="863"/>
+	<SubTexture name="Drill0002" x="0" y="883" width="768" height="863"/>
+	<SubTexture name="Drill0003" x="788" y="883" width="768" height="863"/>
+	<SubTexture name="Drill0004" x="0" y="1766" width="768" height="863"/>
+	<SubTexture name="Drill0005" x="788" y="1766" width="768" height="863"/>
+	<SubTexture name="Drill0006" x="788" y="883" width="768" height="863"/>
+</TextureAtlas>

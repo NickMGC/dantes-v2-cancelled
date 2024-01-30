@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://lime.software/project/1.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://lime.software/project/1.0.2 http://lime.software/xsd/project-1.0.2.xsd">
+	<!-- ____________________ Application Settings ____________________ -->
+
+	<app title="VS Dantes V2" file="Funny pumpkin man" packageName="com.shadowmario.dantes" package="com.shadowmario.dantes" main="Main" version="0.2.7" company="vsdantesteam" />
+
+	<!--Switch Export with Unique ApplicationID and Icon-->
+	<set name="APP_ID" value="0x0100f6c013bbc000" />
+
+	<haxedef name="no-deprecation-warnings"/>
+
+	<!--The flixel preloader is not accurate in Chrome. You can use it regularly if you embed the swf into a html file
+		or you can set the actual size of your file manually at "FlxPreloaderBase-onUpdate-bytesTotal"-->
+
+	<!-- <app preloader="Preloader" /> -->
+	<app preloader="flixel.system.FlxPreloader" />
+
+	<!--Minimum without FLX_NO_GAMEPAD: 11.8, without FLX_NO_NATIVE_CURSOR: 11.2-->
+	<set name="SWF_VERSION" value="11.8" />
+
+	<!-- ____________________ Window Settings ____________________ -->
+
+	<!--These window settings apply to all targets-->
+	<window width="1280" height="720" fps="" background="#000000" hardware="true" vsync="false" />
+
+	<!--HTML5-specific-->
+	<window if="html5" resizable="true" />
+
+	<!--Desktop-specific-->
+	<window if="desktop" orientation="landscape" fullscreen="false" resizable="true" vsync="false"/>
+
+	<!--Mobile-specific-->
+	<window if="mobile" orientation="landscape" fullscreen="true" width="0" height="0" resizable="false"/>
+
+	<!-- ____________________ Export Settings ____________________ -->
+
+	<set name="BUILD_DIR" value="export/debug" if="debug" />
+	<set name="BUILD_DIR" value="export/release" unless="debug" />
+	<set name="BUILD_DIR" value="export/32bit" if="32bits" />
+
+	<classpath name="source"/>
+
+	<!--<define name="VIDEOS_ALLOWED" if="web || windows cpp" unless="32bits"/> cross-platform video support soon-->
+
+
+	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
+	<assets path="assets/preload" rename="assets" exclude="*.mp3"  unless="web"/>
+
+	
+	<library name="videos"        preload="true" />
+	<library name="songs"         preload="true" />
+	
+	<assets path="assets/videos"        library="videos"        if="VIDEOS_ALLOWED"/>
+	<assets path="assets/songs"         library="songs"         exclude="*.ogg" if="web"/>
+	<assets path="assets/songs"         library="songs"         exclude="*.mp3" unless="web"/>
+	
+	<assets path="assets/fonts" embed='true'/>
+	
+	<assets path="README.md" rename='read this.txt'/>
+
+	<!-- ____________________ Libraries ____________________ -->
+
+	<haxelib name="flixel"/>
+	<haxelib name="flixel-addons"/>
+	<haxelib name="flixel-ui"/>
+	<haxelib name="hxcpp"/>
+	<haxelib name="tjson"/>
+	<haxelib name="hxjsonast"/>
+	<haxelib name="parallaxlt"/>
+	<haxelib name="discord_rpc" if="cpp"/>
+
+	<!-- ____________________ Customization ____________________ -->
+
+	<haxedef name="CRASH_HANDLER" if="desktop"/>
+	<haxedef name="HXCPP_CHECK_POINTER" if="CRASH_HANDLER" />
+	<haxedef name="HXCPP_STACK_LINE" if="CRASH_HANDLER" />
+	<haxedev set='webgl'/>
+	<!--Disable the Flixel core focus lost screen-->
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+
+	<!--Allow working memory greater than 1 Gig-->
+	<haxedef name="HXCPP_GC_BIG_BLOCKS"/>
+		
+	<!--Disable the Flixel core debugger. Automatically gets set whenever you compile in release mode!-->
+	<haxedef name="FLX_NO_DEBUG" unless="debug" />
+
+	<!--Enable this for Nape release builds for a serious peformance improvement-->
+	<haxedef name="NAPE_RELEASE_BUILD" unless="debug"/>
+	
+	<!-- _____________________ Icons ____________________ -->
+
+	<icon path="art/icons/icon16.png" size='16'/>
+	<icon path="art/icons/icon32.png" size='32'/>
+	<icon path="art/icons/icon64.png" size='64'/>
+	<icon path="art/icons/iconOG.png"/>
+
+	<!-- ____________________ Errors ____________________ -->
+
+	<error value="Seems like you're using Haxe ${haxe}
+	see https://haxe.org/download for 4.3.1" if="${haxe != 4.3.1}"/>
+
+	<error value="Seems like you're using flixel ${flixel}
+	run `haxelib run hmm install` for 5.3.1" if="${flixel != 5.3.1}"/>
+
+	<error value="Seems like you're using flixel-addons ${flixel-addons}
+	run `haxelib run hmm install` for 3.1.1" if="${flixel-addons != 3.1.1}"/>
+
+	<error value="Seems like you're using flixel-ui ${flixel-ui}
+	run `haxelib run hmm install` for 2.5.0" if="${flixel-ui != 2.5.0}"/>
+
+	<error value="Seems like you're using hxcpp ${hxcpp}
+	run `haxelib run hmm install` for 4.3.2" if="${hxcpp != 4.3.2}"/>
+</project>

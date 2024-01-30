@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pete drip.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pete drip down0000" x="0" y="0" width="319" height="175" frameX="-2" frameY="-149" frameWidth="323" frameHeight="326"/>
+	<SubTexture name="pete drip down0001" x="0" y="0" width="319" height="175" frameX="-2" frameY="-149" frameWidth="323" frameHeight="326"/>
+	<SubTexture name="pete drip down0002" x="339" y="0" width="321" height="235" frameX="-1" frameY="-90" frameWidth="323" frameHeight="326"/>
+	<SubTexture name="pete drip down0003" x="339" y="0" width="321" height="235" frameX="-1" frameY="-90" frameWidth="323" frameHeight="326"/>
+	<SubTexture name="pete drip down0004" x="680" y="0" width="322" height="295" frameX="-1" frameY="-30" frameWidth="323" frameHeight="326"/>
+	<SubTexture name="pete drip down0005" x="1022" y="0" width="323" height="326"/>
+	<SubTexture name="pete drip down0006" x="1022" y="0" width="323" height="326"/>
+	<SubTexture name="pete drip down0007" x="1022" y="0" width="323" height="326"/>
+	<SubTexture name="pete drip down0008" x="1022" y="0" width="323" height="326"/>
+	<SubTexture name="pete drip down0009" x="1022" y="0" width="323" height="326"/>
+	<SubTexture name="pete drip down0010" x="1022" y="0" width="323" height="326"/>
+	<SubTexture name="pete drip idle0000" x="1365" y="0" width="358" height="355" frameX="0" frameY="-40" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0001" x="1365" y="0" width="358" height="355" frameX="0" frameY="-40" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0002" x="0" y="375" width="330" height="369" frameX="-14" frameY="-26" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0003" x="0" y="375" width="330" height="369" frameX="-14" frameY="-26" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0004" x="350" y="375" width="302" height="383" frameX="-28" frameY="-13" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0005" x="350" y="375" width="302" height="383" frameX="-28" frameY="-13" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0006" x="672" y="375" width="274" height="396" frameX="-42" frameY="0" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0007" x="672" y="375" width="274" height="396" frameX="-42" frameY="0" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0008" x="672" y="375" width="274" height="396" frameX="-42" frameY="0" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0009" x="672" y="375" width="274" height="396" frameX="-42" frameY="0" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip idle0010" x="672" y="375" width="274" height="396" frameX="-42" frameY="0" frameWidth="358" frameHeight="396"/>
+	<SubTexture name="pete drip left0000" x="966" y="375" width="460" height="396" frameX="0" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0001" x="966" y="375" width="460" height="396" frameX="0" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0002" x="1446" y="375" width="408" height="402" frameX="-52" frameY="0" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0003" x="1446" y="375" width="408" height="402" frameX="-52" frameY="0" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0004" x="0" y="797" width="357" height="400" frameX="-103" frameY="-1" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0005" x="377" y="797" width="331" height="396" frameX="-129" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0006" x="377" y="797" width="331" height="396" frameX="-129" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0007" x="377" y="797" width="331" height="396" frameX="-129" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0008" x="377" y="797" width="331" height="396" frameX="-129" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip left0009" x="377" y="797" width="331" height="396" frameX="-129" frameY="-3" frameWidth="460" frameHeight="402"/>
+	<SubTexture name="pete drip right0000" x="728" y="797" width="451" height="402" frameX="-1" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0001" x="728" y="797" width="451" height="402" frameX="-1" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0002" x="1199" y="797" width="405" height="406" frameX="-1" frameY="0" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0003" x="1199" y="797" width="405" height="406" frameX="-1" frameY="0" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0004" x="1624" y="797" width="361" height="405" frameX="0" frameY="0" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0005" x="0" y="1223" width="339" height="402" frameX="0" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0006" x="0" y="1223" width="339" height="402" frameX="0" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0007" x="0" y="1223" width="339" height="402" frameX="0" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0008" x="0" y="1223" width="339" height="402" frameX="0" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0009" x="0" y="1223" width="339" height="402" frameX="0" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip right0010" x="0" y="1223" width="339" height="402" frameX="0" frameY="-2" frameWidth="452" frameHeight="406"/>
+	<SubTexture name="pete drip up0000" x="359" y="1223" width="313" height="527"/>
+	<SubTexture name="pete drip up0001" x="359" y="1223" width="313" height="527"/>
+	<SubTexture name="pete drip up0002" x="692" y="1223" width="313" height="481" frameX="0" frameY="-46" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0003" x="692" y="1223" width="313" height="481" frameX="0" frameY="-46" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0004" x="1025" y="1223" width="313" height="436" frameX="0" frameY="-91" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0005" x="1358" y="1223" width="313" height="413" frameX="0" frameY="-114" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0006" x="1358" y="1223" width="313" height="413" frameX="0" frameY="-114" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0007" x="1358" y="1223" width="313" height="413" frameX="0" frameY="-114" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0008" x="1358" y="1223" width="313" height="413" frameX="0" frameY="-114" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0009" x="1358" y="1223" width="313" height="413" frameX="0" frameY="-114" frameWidth="313" frameHeight="527"/>
+	<SubTexture name="pete drip up0010" x="1358" y="1223" width="313" height="413" frameX="0" frameY="-114" frameWidth="313" frameHeight="527"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "comedian",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"comedian",
+			"dantes",
+			[
+				50,
+				146,
+				73
+			]
+		],
+		[
+			"not-funny",
+			"dantes",
+			[
+				50,
+				146,
+				73
+			]
+		],
+		[
+			"punchline",
+			"dantes",
+			[
+				50,
+				146,
+				73
+			]
+		],
+		[
+			"card-trick",
+			"dantes",
+			[
+				50,
+				146,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Main Story"
+}

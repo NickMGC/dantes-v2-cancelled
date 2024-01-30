@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="youre_cool.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yourecool0000" x="20" y="20" width="366" height="279"/>
+	<SubTexture name="yourecoolselect0000" x="406" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0001" x="795" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0002" x="795" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0003" x="1184" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0004" x="1184" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0005" x="1573" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0006" x="1573" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0007" x="1573" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0008" x="1573" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0009" x="1573" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0010" x="1573" y="20" width="369" height="297"/>
+	<SubTexture name="yourecoolselect0011" x="1573" y="20" width="369" height="297"/>
+</TextureAtlas>

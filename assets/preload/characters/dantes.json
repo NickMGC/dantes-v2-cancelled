@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				141,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dantes Idle"
+		},
+		{
+			"offsets": [
+				446,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dantes Left0"
+		},
+		{
+			"offsets": [
+				128,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dantes Right0"
+		},
+		{
+			"offsets": [
+				132,
+				322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dantes Up0"
+		},
+		{
+			"offsets": [
+				195,
+				199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dantes Down0"
+		},
+		{
+			"offsets": [
+				446,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"indices": [0,0,1,1,2,3,4,5,6,7,8,9,10,11,12,13],
+			"name": "Dantes Left0"
+		},
+		{
+			"offsets": [
+				128,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-hold",
+			"indices": [0,0,1,1,2,3,4,5,6,7,8,9,10,11,12,13],
+			"name": "Dantes Right0"
+		},
+		{
+			"offsets": [
+				132,
+				322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-hold",
+			"indices": [0,0,1,1,2,3,4,5,6,7,8,9,10,11,12,13],
+			"name": "Dantes Up0"
+		},
+		{
+			"offsets": [
+				195,
+				199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"indices": [0,0,1,1,2,3,4,5,6,7,8,9,10,11,12,13],
+			"name": "Dantes Down0"
+		},
+		{
+			"offsets": [
+				129,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "unexplode",
+			"indices": [],
+			"name": "Dantes Unexplode"
+		},
+		{
+			"offsets": [
+				410,
+				585
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "adobe",
+			"indices": [],
+			"name": "AdobeAnimateAppear"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				258
+			],
+			"anim": "huh",
+			"fps": 24,
+			"name": "Dantes Huh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				129,
+				268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dhey",
+			"indices": [],
+			"name": "Dantes Hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dantes Sprites",
+	"position": [
+		200,
+		290
+	],
+	"healthicon": "dantes",
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		98,
+		37
+	],
+	"camera_position": [
+		-320,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

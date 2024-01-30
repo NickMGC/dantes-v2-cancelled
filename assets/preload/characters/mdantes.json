@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				7,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dantes Idle not funny"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				223,
+				-6
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dantes Left not funny weak"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				100,
+				-103
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dantes Down not funny weak"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				48,
+				67
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dantes Up not funny weak"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-23,
+				-5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dantes Right not funny weak"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				194,
+				30
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Dantes Left not funny0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				77,
+				-62
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Dantes Down not funny0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-39,
+				67
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Dantes Up not funny0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-31,
+				-6
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Dantes Right not funny0"
+		}
+	],
+	"camera_position": [
+		90,
+		-50
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"healthicon": "bf",
+	"image": "characters/M Dantes",
+	"no_antialiasing": false,
+	"position": [
+		190,
+		100
+	],
+	"scale": 1,
+	"sing_duration": 4
+}

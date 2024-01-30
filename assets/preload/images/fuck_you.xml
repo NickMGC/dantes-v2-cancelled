@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fuck_you.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fuckyou0000" x="20" y="20" width="341" height="327"/>
+	<SubTexture name="fuckyouselect0000" x="381" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0001" x="757" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0002" x="757" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0003" x="1133" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0004" x="1133" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0005" x="1509" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0006" x="1509" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0007" x="1509" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0008" x="1509" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0009" x="1509" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0010" x="1509" y="20" width="356" height="349"/>
+	<SubTexture name="fuckyouselect0011" x="1509" y="20" width="356" height="349"/>
+</TextureAtlas>

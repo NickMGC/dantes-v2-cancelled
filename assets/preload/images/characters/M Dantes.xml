@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="M Dantes.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dantes Down not funny0000" x="1149" y="1546" width="574" height="658" frameX="0" frameY="-8" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0001" x="1149" y="1546" width="574" height="658" frameX="0" frameY="-8" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0002" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0003" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0004" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0005" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0006" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0007" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0008" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0009" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0010" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0011" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0012" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny0013" x="1691" y="737" width="562" height="666" frameX="-6" frameY="0" frameWidth="574" frameHeight="666"/>
+	<SubTexture name="Dantes Down not funny weak0000" x="646" y="809" width="435" height="634" frameX="0" frameY="-6" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0001" x="646" y="809" width="435" height="634" frameX="0" frameY="-6" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0002" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0003" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0004" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0005" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0006" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0007" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0008" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0009" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0010" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0011" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0012" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Down not funny weak0013" x="1715" y="0" width="425" height="640" frameX="-5" frameY="0" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="Dantes Idle not funny0000" x="1895" y="2155" width="353" height="715" frameX="-2" frameY="-17" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0001" x="1895" y="2155" width="353" height="715" frameX="-2" frameY="-17" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0002" x="1892" y="2956" width="355" height="718" frameX="-2" frameY="-14" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0003" x="1892" y="2956" width="355" height="718" frameX="-2" frameY="-14" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0004" x="537" y="3061" width="357" height="725" frameX="0" frameY="-7" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0005" x="537" y="3061" width="357" height="725" frameX="0" frameY="-7" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0006" x="1528" y="3017" width="354" height="730" frameX="0" frameY="-2" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0007" x="1528" y="3017" width="354" height="730" frameX="0" frameY="-2" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0008" x="1535" y="2214" width="350" height="732" frameX="-1" frameY="0" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0009" x="1535" y="2214" width="350" height="732" frameX="-1" frameY="0" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0010" x="1733" y="1413" width="350" height="732" frameX="-1" frameY="0" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0011" x="1733" y="1413" width="350" height="732" frameX="-1" frameY="0" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0012" x="1733" y="1413" width="350" height="732" frameX="-1" frameY="0" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Idle not funny0013" x="1733" y="1413" width="350" height="732" frameX="-1" frameY="0" frameWidth="357" frameHeight="732"/>
+	<SubTexture name="Dantes Left not funny0000" x="615" y="2299" width="527" height="752" frameX="0" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0001" x="615" y="2299" width="527" height="752" frameX="0" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0002" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0003" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0004" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0005" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0006" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0007" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0008" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0009" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0010" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0011" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0012" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny0013" x="0" y="2970" width="527" height="752" frameX="-1" frameY="0" frameWidth="528" frameHeight="752"/>
+	<SubTexture name="Dantes Left not funny weak0000" x="0" y="748" width="636" height="738" frameX="0" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0001" x="0" y="748" width="636" height="738" frameX="0" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0002" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0003" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0004" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0005" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0006" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0007" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0008" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0009" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0010" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0011" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0012" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Left not funny weak0013" x="0" y="0" width="637" height="738" frameX="-4" frameY="0" frameWidth="641" frameHeight="738"/>
+	<SubTexture name="Dantes Right not funny0000" x="1149" y="809" width="532" height="727"/>
+	<SubTexture name="Dantes Right not funny0001" x="1149" y="809" width="532" height="727"/>
+	<SubTexture name="Dantes Right not funny0002" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0003" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0004" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0005" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0006" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0007" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0008" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0009" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0010" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0011" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0012" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny0013" x="1174" y="0" width="531" height="727" frameX="0" frameY="0" frameWidth="532" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0000" x="0" y="1496" width="605" height="727" frameX="-5" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0001" x="0" y="1496" width="605" height="727" frameX="-5" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0002" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0003" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0004" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0005" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0006" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0007" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0008" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0009" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0010" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0011" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0012" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Right not funny weak0013" x="0" y="2233" width="605" height="727" frameX="0" frameY="0" frameWidth="610" frameHeight="727"/>
+	<SubTexture name="Dantes Up not funny0000" x="1152" y="3017" width="366" height="800" frameX="-3" frameY="0" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0001" x="1152" y="3017" width="366" height="800" frameX="-3" frameY="0" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0002" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0003" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0004" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0005" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0006" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0007" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0008" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0009" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0010" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0011" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0012" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny0013" x="1152" y="2214" width="373" height="793" frameX="0" frameY="-7" frameWidth="373" frameHeight="800"/>
+	<SubTexture name="Dantes Up not funny weak0000" x="647" y="0" width="517" height="799" frameX="-3" frameY="0" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0001" x="647" y="0" width="517" height="799" frameX="-3" frameY="0" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0002" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0003" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0004" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0005" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0006" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0007" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0008" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0009" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0010" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0011" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0012" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+	<SubTexture name="Dantes Up not funny weak0013" x="615" y="1496" width="524" height="793" frameX="0" frameY="-6" frameWidth="524" frameHeight="799"/>
+</TextureAtlas>

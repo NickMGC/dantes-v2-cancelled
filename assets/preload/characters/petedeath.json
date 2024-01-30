@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				-381
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pete death"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pete",
+	"position": [
+		-270,
+		350
+	],
+	"healthicon": "pete",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		60,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

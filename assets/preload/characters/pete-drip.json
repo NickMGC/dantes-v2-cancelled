@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-187,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pete drip idle"
+		},
+		{
+			"offsets": [
+				17,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pete drip left"
+		},
+		{
+			"offsets": [
+				-189,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pete drip down"
+		},
+		{
+			"offsets": [
+				-202,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pete drip up"
+		},
+		{
+			"offsets": [
+				-240,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pete drip right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pete drip",
+	"position": [
+		-270,
+		350
+	],
+	"healthicon": "pete",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		195,
+		-135
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
